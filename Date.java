@@ -152,7 +152,7 @@ public class Date {
 				System.out.println("Ç°Ò»Ìì" + date.getLastday(datestr));
 			}
 		}
-		int a = ¡°sasads'£º
+		this the second text¡£
 	}
 
 }
